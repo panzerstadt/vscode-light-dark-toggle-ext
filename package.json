@@ -2,7 +2,7 @@
   "name": "light-dark-toggle",
   "displayName": "light-dark-toggle",
   "description": "adds a dark/light mode toggle on your view container. useful with markdown previews",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "media/night.png",
   "galleryBanner": {
     "color": "#FFFAF9"
